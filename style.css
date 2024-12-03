@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+html{
+    font-size: 100%;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  h1{
+    font-size: 3rem;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+  }
+  h2{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+  }
+  h3{
+    font-size: 1.3rem;
+    color: rgb(255, 255, 255);
+  }
+  p{
+    font-family: "Merriweather", serif;
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+  }
+  .site-title{
+    font-size: 1.7rem;
+    color: rgb(255, 255, 255);
+  }
+  h4{
+    color: rgb(255, 255, 255);
+  }
+  footer{
+    font-size: 0.9rem;
+    color: rgb(255, 255, 255);
+  }
+  
+body{
+    background-color: rgb(235, 240, 240);
+    line-height: 1.4;
+    max-width: 70ch;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 30px;
+}
+
+p{
+    width: 600px;
+}
