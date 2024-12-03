@@ -8,19 +8,35 @@ html{
     font-size: 3rem;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 250;
+    font-weight: 300;
     font-style: normal;
+    color: rgb(255, 255, 255);
   }
   h2{
     font-size: 2rem;
+    color: rgb(255, 255, 255);
   }
   h3{
+    font-size: 1.3rem;
+    color: rgb(255, 255, 255);
+  }
+  p{
+    font-family: "Merriweather", serif;
     font-size: 1.2rem;
+    color: rgb(255, 255, 255);
   }
   .site-title{
     font-size: 1.7rem;
-    color: rgb(62, 3, 3);
+    color: rgb(255, 255, 255);
   }
+  h4{
+    color: rgb(255, 255, 255);
+  }
+  footer{
+    font-size: 0.9rem;
+    color: rgb(255, 255, 255);
+  }
+  
 body{
     background-color: rgb(235, 240, 240);
     line-height: 1.4;
